@@ -41,7 +41,7 @@ I am a fullstack software engineer from esfahan
 - MatchMarry
 - iQoala
 - [iFishX](https://drive.google.com/drive/folders/1KsC6RZTkBEZWsEDU6kdtTb-Kxjjw2osN?usp=sharing)
-  - Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups..
+  - By connecting to the device, it receives sensors information from the device and detects the type of fish and the freshness of the fish
 - Agrice
 - Bio 3d printer
 - v.n karazin kharkiv university
