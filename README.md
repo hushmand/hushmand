@@ -2,8 +2,9 @@
 ### Hello World 👋
 I am a fullstack software engineer from esfahan 
 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+
+- 🔭 Working on cross platform application with Flutter 
+- ⚡ Native Application Android(java, kotlin) and iOS (Swift)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
