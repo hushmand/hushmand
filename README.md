@@ -28,8 +28,12 @@ I am a fullstack software engineer from esfahan
 
 ## Connect with me
 
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://56faisal.medium.com/)
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://www.linkedin.com/)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://medium.com/)
+
+
+<br>
+<br>
 
 
 ## Portfolio
