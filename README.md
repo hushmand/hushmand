@@ -3,10 +3,12 @@
 I am a fullstack software engineer from esfahan 
 
 
-- 🔭 Working on cross platform application with Flutter 
-- ⚡ Native Application Android(java, kotlin) and iOS (Swift)
-- 🔭 Implement real time communication for chat and video streaming
-- 🌱 Implement deep learning and ai networks on the app platform
+- Working on cross platform application with Flutter 
+- Native Application Android(java, kotlin) and iOS (Swift)
+- Implement real time communication for chat and video streaming
+- Implement deep learning and ai networks on the app platform
+- Application for the Internet of Things
+- Admin panel with Vue.js and Flutter
 
 <br>
 
