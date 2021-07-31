@@ -32,7 +32,7 @@ I am a fullstack software engineer from esfahan
 <img align="left" alt="Vue.js" src="https://img.shields.io/badge/VUe.js-%23232F3E?logo=vue.js&logoColor=white&style=for-the-badge" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="flutter" src="https://img.shields.io/badge/video streaming%20-%236DB33F.svg?&style=for-the-badge&logo=video&logoColor=white" />
 
 <br>
 <br>
