@@ -9,6 +9,8 @@ I am a fullstack software engineer from esfahan
 - Implement deep learning and ai networks on the app platform
 - Application for the Internet of Things
 - Admin panel with Vue.js and Flutter
+- using open street map on application
+- 
 
 <br>
 
