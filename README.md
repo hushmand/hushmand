@@ -21,6 +21,8 @@ I am a fullstack software engineer from esfahan
 <img align="left" alt="swift" src="https://img.shields.io/badge/Swift-%23316192.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 <img align="left" alt="video streaming" src="https://img.shields.io/badge/video streaming%20-%236DB33F.svg?&style=for-the-badge&logo=video&logoColor=white" />
 <img align="left" alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=for-the-badge&logo=grpc&logoColor=orange&color=orange" />
+<img align="left" alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=orange&color=blue" />
+
 
 <br>
 <br>
