@@ -41,6 +41,7 @@ I am a fullstack software engineer from esfahan
 - iQoala
 - [iFishX](https://drive.google.com/drive/folders/1KsC6RZTkBEZWsEDU6kdtTb-Kxjjw2osN?usp=sharing)
 - Agrice
+- Bio 3d printer
 - v.n karazin kharkiv university
 - taxi online
 - RimemaParis management
@@ -49,8 +50,4 @@ I am a fullstack software engineer from esfahan
 - CarController
 - hamichat
 - Akam
-
-<br>
-
-
 
