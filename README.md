@@ -43,11 +43,13 @@ I am a fullstack software engineer from esfahan
 - Agrice
 - Bio 3d printer
 - v.n karazin kharkiv university
-- taxi online
+- Taxi Online platform
 - RimemaParis management
 - RimemaParis social media
-- cafePasour
+- CafePasour
 - CarController
-- hamichat
+- HamiChat
 - Akam
+- Jiet Shop
+- Zinzan
 
