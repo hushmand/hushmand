@@ -53,8 +53,8 @@ I am a fullstack software engineer from esfahan
 - [CarController](https://drive.google.com/drive/folders/19NAv7R5niyez-M5WrnXrI6DuenUgcr_o?usp=sharing)
 - [HamiChat](https://drive.google.com/drive/folders/1l-KJcGh2GAskK1pIf9MBU8X__gNWqPup?usp=sharing)
   - Pasargad Bank branches support app using chat and video streaming
-- Akam
+- [Akam](https://drive.google.com/drive/folders/1K_1ycAYJ3HjdK-GoZkS4xAyM81X_zSVF?usp=sharing)
   - Sms gateway app
-- Jiet Shop
+- [Jiet Shop](https://drive.google.com/drive/folders/1qLXFl0Hix75sAeG0kweb8IJfIc2tIB4q?usp=sharing)
 - Zinzan
 
