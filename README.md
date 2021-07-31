@@ -51,6 +51,7 @@ I am a fullstack software engineer from esfahan
 - CafePasour
 - CarController
 - HamiChat
+  - Pasargad Bank branches support app using chat and video streaming
 - Akam
 - Jiet Shop
 - Zinzan
