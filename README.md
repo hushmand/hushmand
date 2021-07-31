@@ -14,7 +14,6 @@ I am a fullstack software engineer from esfahan
 - ⚡ Fun fact: ...
 
 <br>
-<br>
 
 ## Expertise
 <img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB" />
@@ -26,6 +25,12 @@ I am a fullstack software engineer from esfahan
 
 <br>
 <br>
+
+## Connect with me
+
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://56faisal.medium.com/)
+
 
 ## Portfolio
 - MatchMarry
@@ -42,11 +47,6 @@ I am a fullstack software engineer from esfahan
 - Akam
 
 <br>
-<br>
 
-## Connect with me
-
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://56faisal.medium.com/)
 
 
