@@ -44,6 +44,7 @@ I am a fullstack software engineer from esfahan
   - By connecting to the device, it receives sensors information from the device and detects the type of fish and the freshness of the fish
 - Agrice
 - [Bio 3d printer](https://drive.google.com/drive/folders/1-tf6xQpUCw0pHEu05gtgHEIoVgCPnlp5?usp=sharing)
+- [DentSafe](https://drive.google.com/drive/folders/1hq6vv1LHw5tA3UGFo_ueRdQb1xj_71W1?usp=sharing)
 - [v.n karazin kharkiv university](https://drive.google.com/drive/folders/105Vw3VpNTnBKevLkctw1nFVYtuA2VcYl?usp=sharing)
 - [AloExpress](https://drive.google.com/drive/folders/1_7jC_tXF3edNDoTrbm4Ip71QIRV3i0EU?usp=sharing)
   - Online taxi system has two passenger and driver applications in two versions of Android and iOS
