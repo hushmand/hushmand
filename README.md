@@ -14,7 +14,7 @@ I am a fullstack software engineer from esfahan
 
 <br>
 
-## Expertise
+<!-- ## Expertise -->
 <p>
   <img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=flat-square&logo=flutter&logoColor=%2361DAFB" />
   <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
