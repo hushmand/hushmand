@@ -19,6 +19,9 @@ const anmol = {
         backEnd: {
             js: ["Node", "Express"],
         },
+        frontEnd: {
+            web: ["Vue.js", "html","css","bootstrap","vuetify"],
+        }
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "open-cv", "IOT", "DeepLearning and AI"]
