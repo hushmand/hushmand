@@ -42,7 +42,7 @@ I am a fullstack software engineer from esfahan
 - iQoala
 - [iFishX](https://drive.google.com/drive/folders/1KsC6RZTkBEZWsEDU6kdtTb-Kxjjw2osN?usp=sharing)
   - By connecting to the device, it receives sensors information from the device and detects the type of fish and the freshness of the fish
-- Agrice
+- [Agrice](https://drive.google.com/drive/folders/187ZbAKeiK1jcVoYZ2mRq8SwQnqxX_xkv?usp=sharing)
 - [Bio 3d printer](https://drive.google.com/drive/folders/1-tf6xQpUCw0pHEu05gtgHEIoVgCPnlp5?usp=sharing)
 - [DentSafe](https://drive.google.com/drive/folders/1hq6vv1LHw5tA3UGFo_ueRdQb1xj_71W1?usp=sharing)
 - [v.n karazin kharkiv university](https://drive.google.com/drive/folders/105Vw3VpNTnBKevLkctw1nFVYtuA2VcYl?usp=sharing)
