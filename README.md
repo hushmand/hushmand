@@ -46,7 +46,7 @@ I am a fullstack software engineer from esfahan
 <br>
 
 ## Expertise
-<img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB" />
+<img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=flat-square&logo=flutter&logoColor=%2361DAFB" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Vue.js" src="https://img.shields.io/badge/VUe.js-%23232F3E?logo=vue.js&logoColor=white&style=for-the-badge" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
