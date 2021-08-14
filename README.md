@@ -47,13 +47,13 @@ I am a fullstack software engineer from esfahan
 
 ## Expertise
 <img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=flat-square&logo=flutter&logoColor=%2361DAFB" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Vue.js" src="https://img.shields.io/badge/VUe.js-%23232F3E?logo=vue.js&logoColor=white&style=for-the-badge" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="swift" src="https://img.shields.io/badge/Swift-%23316192.svg?&style=for-the-badge&logo=swift&logoColor=white" />
-<img align="left" alt="video streaming" src="https://img.shields.io/badge/video streaming%20-%236DB33F.svg?&style=for-the-badge&logo=video&logoColor=white" />
-<img align="left" alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=for-the-badge&logo=grpc&logoColor=orange&color=orange" />
-<img align="left" alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=blue" />
+<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+<img align="left" alt="Vue.js" src="https://img.shields.io/badge/VUe.js-%23232F3E?logo=vue.js&logoColor=white&style=flat-square" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" />
+<img align="left" alt="swift" src="https://img.shields.io/badge/Swift-%23316192.svg?&style=flat-square&logo=swift&logoColor=white" />
+<img align="left" alt="video streaming" src="https://img.shields.io/badge/video streaming%20-%236DB33F.svg?&style=flat-square&logo=video&logoColor=white" />
+<img align="left" alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
+<img align="left" alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=flat-square&logo=git&logoColor=white&color=blue" />
 
 
 <br>
