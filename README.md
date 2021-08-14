@@ -10,18 +10,18 @@ I am a fullstack software engineer from esfahan
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Flutter", "Dart", "Java", "Swift", "Node.js"],
-    askMeAbout: ["app dev", "wev dev"],
+    askMeAbout: ["app dev", "web dev"],
     technologies: {
         mobileApp: {
             crossPlatform: ["Flutter"],
-            native: ["Android Development", "IOS Development"]
+            native: ["Android Development", "iOS Development"]
         },
         backEnd: {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "IOT", "deepLearning and ai"]
+        misc: ["Firebase", "Socket.IO", "open-cv", "IOT", "DeepLearning and AI"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Flutter App Development",
