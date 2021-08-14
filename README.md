@@ -14,8 +14,8 @@ I am a fullstack software engineer from esfahan
 
 <br>
 
-<!-- ## Expertise -->
-<p>
+## Expertise
+<!-- <p> -->
   <img align="left" alt="flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=flat-square&logo=flutter&logoColor=%2361DAFB" />
   <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
   <img align="left" alt="Vue.js" src="https://img.shields.io/badge/VUe.js-%23232F3E?logo=vue.js&logoColor=white&style=flat-square" />
@@ -27,7 +27,7 @@ I am a fullstack software engineer from esfahan
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+<!-- </p> -->
 
 <br>
 <br>
