@@ -38,6 +38,7 @@ const amir = {
 <p>
   <img src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=flat-square&logo=flutter&logoColor=%2361DAFB" />
   <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+  <img alt="ios" src="https://img.shields.io/badge/-f1f1f1?logo=ios&logoColor=black&style=flat-square" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%23232F3E?logo=vue.js&logoColor=white&style=flat-square" />
   <img alt="swift" src="https://img.shields.io/badge/Swift-%23316192.svg?&style=flat-square&logo=swift&logoColor=white" />
   <img alt="video streaming" src="https://img.shields.io/badge/video streaming%20-%236DB33F.svg?&style=flat-square&logo=video&logoColor=white" />
