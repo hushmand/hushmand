@@ -1,7 +1,7 @@
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a mobile app software engineer from esfahan 
+I am a Fullstack developer from esfahan 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -27,7 +27,7 @@ const amir = {
         misc: ["Firebase", "Socket.IO", "open-cv", "IOT", "DeepLearning and AI"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Flutter App Development",
+    currentFocus: "Flutter App Development and node.js",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
