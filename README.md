@@ -4,8 +4,9 @@
 <br>
 <i>Birth 1996</i>
 
-mail: [amirhushmand@gmail.com](https://drive.google.com/drive/folders/1H36s-4ikcSpd_qUf0s_9ikFc1wBalXt-?usp=sharing)
-
+mail: [amirhushmand@gmail.com](mailto:amirhushmand@gmail.com)
+<br>
+linkedin: [linkedin.com/in/ahushmand](https://linkedin.com/in/ahushmand)
 <br>
 
 
