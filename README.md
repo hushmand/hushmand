@@ -1,6 +1,10 @@
 
 ### Amir Houshmand
-about me
+<b>Mobile App Developer</b>
+<br>
+<i>Birth 1996</i>
+
+mail: [amirhushmand@gmail.com](https://drive.google.com/drive/folders/1H36s-4ikcSpd_qUf0s_9ikFc1wBalXt-?usp=sharing)
 
 <br>
 
@@ -22,16 +26,26 @@ about me
 - Communication with BLE device
 - Blockchain-based apps
 
-
+<br>
 <br>
 
-## Connect with me
+## EXPERIENCE
+<b>Freelancer 2014-2021</b>
+- Created custom mobile applications using native technologies.
+- Tested applications prior to final review to verify issue resolution.
+- Use the latest frameworks and architectures required by projects
+- Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
 
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ah_hushmand)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amirhushmand@gmail.com)
 
+<b>CFBTEL Co. 2021-2022</b>
+- Implement voice calls using Linphone SDK in native languages(swift, kotlin) and their relationship to Flutter.
+- Use silent push notification, callKit to make calls on the iOS plastform.
+- Implement a web socket for chatting and specifying users's call status.
+- Implement webRTC for making video calls.
+- Flutter output on Android ,iOS, OSX, Windows.
+- Facilitated Scrum framework – sprint planning, backlog grooming, daily scrums, sprint reviews and sprint retrospectives.
+- Contributed to team success by completing jobs quickly and accurately.
 
-<br>
 <br>
 
 
