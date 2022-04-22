@@ -28,7 +28,6 @@ linkedin: [linkedin.com/in/ahushmand](https://linkedin.com/in/ahushmand)
 - Blockchain-based apps
 
 <br>
-<br>
 
 ## EXPERIENCE
 <b>Freelancer 2014-2021</b>
