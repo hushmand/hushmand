@@ -4,6 +4,14 @@
 <br>
 <i>Birth 1996</i>
 
+As a Senior Mobile developer, I have proven and solid
+experience in mobile app development. Over 8 years of
+deep mobile app development experience.
+In addition to the experience of implementing projects such as Decentralized Messenger App based blockchain and webrtc, Online-taxi App, hiring jobs App, etc.
+Whether you just need capable manpower, need to hire
+someone for a one-off or long term task, or want a brand
+new app, I would be glad to step in and help!
+
 mail: [amirhushmand@gmail.com](mailto:amirhushmand@gmail.com)
 <br>
 linkedin: [linkedin.com/in/ahushmand](https://linkedin.com/in/ahushmand)
