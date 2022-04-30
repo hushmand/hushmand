@@ -59,32 +59,23 @@ linkedin: [linkedin.com/in/ahushmand](https://linkedin.com/in/ahushmand)
 
 ## Portfolio
 
-- Decentralized Messenger
-  - A federated and decentralized end-to-end encrypted messenger by flutter in a very simple but fast and secure architecture inspired by email was developed.
+<b>Decentralized Messenger</b>
+- A federated and decentralized end-to-end encrypted messenger by flutter in a very simple but fast and secure architecture inspired by email was developed.
 User information is stored as hashes in the objectbox database also a special blockchain was made in order to register and assign unique names to users. Comes with a very smooth user interface.
 
-- [MatchMarry](https://drive.google.com/drive/folders/1H36s-4ikcSpd_qUf0s_9ikFc1wBalXt-?usp=sharing)
-  - with MatchMarry many people have been able to find their favorite partner and immigrate to the best countries in the world through Match Marry.
+<b>MatchMarry</b>
+- with MatchMarry many people have been able to find their favorite partner and immigrate to the best countries in the world through Match Marry. Use sockets for real-time communication in chat, implement Firebase and apns to receive notifications, implement Google and Facebook logins with Android and iOS outputs
 - iQoala
-- [iFishX](https://drive.google.com/drive/folders/1KsC6RZTkBEZWsEDU6kdtTb-Kxjjw2osN?usp=sharing)
+- iFishX
   - By connecting to the device, it receives sensors information from the device and detects the type of fish and the freshness of the fish
-- [Agrice](https://drive.google.com/drive/folders/187ZbAKeiK1jcVoYZ2mRq8SwQnqxX_xkv?usp=sharing)
-- [Bio 3d printer](https://drive.google.com/drive/folders/1-tf6xQpUCw0pHEu05gtgHEIoVgCPnlp5?usp=sharing)
-- [DentSafe](https://drive.google.com/drive/folders/1hq6vv1LHw5tA3UGFo_ueRdQb1xj_71W1?usp=sharing)
-- [v.n karazin kharkiv university](https://drive.google.com/drive/folders/105Vw3VpNTnBKevLkctw1nFVYtuA2VcYl?usp=sharing)
-- [AloExpress](https://drive.google.com/drive/folders/1_7jC_tXF3edNDoTrbm4Ip71QIRV3i0EU?usp=sharing)
+- Agrice
+- Bio 3d printer
+- v.n karazin kharkiv university
+- AloExpress
   - Online taxi system has two passenger and driver applications in two versions of Android and iOS
-- [RimemaParis management](https://drive.google.com/drive/folders/1fcd6pz5kt7dYVsxCXx4LmMI7N2I4giPz?usp=sharing)
-- RimemaParis social media
-- [CafePasour](https://drive.google.com/drive/folders/1OUssNr50ffZlVy_ChulLbWU7ODifdw9k?usp=sharing)
-- [CarController](https://drive.google.com/drive/folders/19NAv7R5niyez-M5WrnXrI6DuenUgcr_o?usp=sharing)
-- [HamiChat](https://drive.google.com/drive/folders/1l-KJcGh2GAskK1pIf9MBU8X__gNWqPup?usp=sharing)
+- RimemaParis management
+- CarController
+- HamiChat
   - Pasargad Bank branches support app using chat and video streaming
-- [Akam](https://drive.google.com/drive/folders/1K_1ycAYJ3HjdK-GoZkS4xAyM81X_zSVF?usp=sharing)
-  - Sms gateway app
-- [Jiet Shop](https://drive.google.com/drive/folders/1qLXFl0Hix75sAeG0kweb8IJfIc2tIB4q?usp=sharing)
-- Zinzan
-- eCrack
-- OPTOMAC
-- UV
-- Plasma
+- Jiet Shop
+
