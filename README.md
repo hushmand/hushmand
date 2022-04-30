@@ -58,6 +58,11 @@ linkedin: [linkedin.com/in/ahushmand](https://linkedin.com/in/ahushmand)
 
 
 ## Portfolio
+
+- Decentralized Messenger
+  - A federated and decentralized end-to-end encrypted messenger by flutter in a very simple but fast and secure architecture inspired by email was developed.
+User information is stored as hashes in the objectbox database also a special blockchain was made in order to register and assign unique names to users. Comes with a very smooth user interface.
+
 - [MatchMarry](https://drive.google.com/drive/folders/1H36s-4ikcSpd_qUf0s_9ikFc1wBalXt-?usp=sharing)
   - with MatchMarry many people have been able to find their favorite partner and immigrate to the best countries in the world through Match Marry.
 - iQoala
