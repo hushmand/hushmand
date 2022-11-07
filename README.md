@@ -29,12 +29,15 @@ mobile: +989378849824
 - Socket.io & webSocket
 - CallKit, Silent pushKit, Background Fetch iOS
 - Git and Github flow & CI/CD
-- Linphone SDK 
+- Voip App(linphone & zoiper)
 - Open street map
 - TensorFlow & OpenCV
 - ARKit
 - Communication with BLE device
 - Blockchain-based apps
+- Clean,TDD
+- Hybrid App
+- IPFS
 
 <br>
 
