@@ -17,9 +17,7 @@ mail: [amirhushmand@gmail.com](mailto:amirhushmand@gmail.com)
 linkedin: [linkedin.com/in/ahushmand](https://linkedin.com/in/ahushmand)
 <br>
 github: [github.com/hushmand](https://github.com/hushmand)
-<br>
-mobile: +989378849824
-<br>
+
 
 
 ## SKILLS
