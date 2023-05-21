@@ -5,7 +5,7 @@
 <i>Birth 1996</i>
 
 As a Senior Mobile developer, I have proven and solid
-experience in mobile app development. Over 8 years of
+experience in mobile app development. Over 10 years of
 deep mobile app development experience.
 In addition to the experience of implementing projects such as Decentralized Messenger App based blockchain and webrtc, Online-taxi App, hiring jobs App, etc.
 Whether you just need capable manpower, need to hire
@@ -58,7 +58,7 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Using MQTT for tranfer data 
 - Use the TensorFlow to import AI network
 
-<b>CFBTEL Co. 2021-2022</b>
+<b>CFBTEL Co. 2021-2023</b>
 - Implement voice calls using Linphone SDK in native languages(swift, kotlin) and their relationship to Flutter.
 - Use silent push notification, callKit to make calls on the iOS plastform.
 - Implement a web socket for chatting and specifying users's call status.
@@ -82,7 +82,7 @@ User information is stored as hashes in the objectbox database also a special bl
 <b>MatchMarry</b>
 - with MatchMarry many people have been able to find their favorite partner and immigrate to the best countries in the world through Match Marry. Use sockets for real-time communication in chat, implement Firebase and apns to receive notifications, implement Google and Facebook logins with Android and iOS and PWA outputs.
 
-<b>iFishX</b>
+<b>iFish</b>
 - This app by connecting to the BLE device, it receives sensors information from the device and detects the type of fish and the freshness of the fish. Use tensorflow to run an artificial intelligence network on a flutter platform. Has Android and iOS outputs
 
 
