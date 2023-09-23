@@ -75,6 +75,19 @@ github: [github.com/hushmand](https://github.com/hushmand)
 <b>CFBTEL SIP-based</b>
 - An application based on sip and webrtc platform for making voice and video calls. All plugins are implemented in native languages of different platforms and used in Flutter. Using callkit, silent push services to receive calls in ios version, with Android, ios, macos outputs.
 
+App Store : https://apps.apple.com/us/app/cfbtel/id1597869627
+
+<br>
+
+<b>Felorida Social Media</b>
+- Creating a full-featured social network with Flutter for Android, iOS, and web involves setting up user authentication, a database for user data and posts, and features like user profiles, a news feed, and a follow/friend system. Firebase can be a helpful tool for authentication and data storage.
+
+App Store : https://apps.apple.com/in/app/felorida/id6450869735
+<br>
+Google Play : https://play.google.com/store/apps/details?id=com.felorida&hl=en&gl=US
+
+<br>
+
 <b>Decentralized Messenger</b>
 - A federated and decentralized end-to-end encrypted messenger by flutter in a very simple but fast and secure architecture inspired by email was developed.
 User information is stored as hashes in the objectbox database also a special blockchain was made in order to register and assign unique names to users. Comes with a very smooth user interface.
