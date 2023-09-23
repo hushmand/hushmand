@@ -82,18 +82,13 @@ User information is stored as hashes in the objectbox database also a special bl
 <b>MatchMarry</b>
 - with MatchMarry many people have been able to find their favorite partner and immigrate to the best countries in the world through Match Marry. Use sockets for real-time communication in chat, implement Firebase and apns to receive notifications, implement Google and Facebook logins with Android and iOS and PWA outputs.
 
-<b>iFish</b>
-- This app by connecting to the BLE device, it receives sensors information from the device and detects the type of fish and the freshness of the fish. Use tensorflow to run an artificial intelligence network on a flutter platform. Has Android and iOS outputs
-
-
-
 <b>AloExpress</b>
 - Online taxi system has two passenger and driver applications in two versions of Android and iOS
 
 
 
-<b>HamiChat</b>
-- Pasargad Bank branches support app using chat and video streaming
+<b>Bank support Chat</b>
+- Bank branches support app using chat and video streaming
  
 
 
