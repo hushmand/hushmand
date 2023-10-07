@@ -42,21 +42,6 @@ github: [github.com/hushmand](https://github.com/hushmand)
 <br>
 
 ## EXPERIENCE
-<b>Freelancer 2014-2016</b>
-- Created custom mobile applications using native technologies.
-- Tested applications prior to final review to verify issue resolution.
-- Use the latest frameworks and architectures required by projects
-- Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
-
-<b>TahaTech 2017-2018</b>
-- Online taxi sdk platfrm and deploy for another companies
-- native android & iOS application
-- Use the OpenStreetMap
-
-<b>HitechInnovationCenter 2019-2020</b>
-- Implementation of medical apps connected with the ble devices
-- Using MQTT for tranfer data 
-- Use the TensorFlow to import AI network
 
 <b>CFBTEL Co. 2021-2023</b>
 - Implement voice calls using Linphone SDK in native languages(swift, kotlin) and their relationship to Flutter.
@@ -66,6 +51,25 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Flutter output on Android ,iOS, OSX, Windows.
 - Facilitated Scrum framework – sprint planning, backlog grooming, daily scrums, sprint reviews and sprint retrospectives.
 - Contributed to team success by completing jobs quickly and accurately.
+
+
+<b>HitechInnovationCenter 2019-2020</b>
+- Implementation of medical apps connected with the ble devices
+- Using MQTT for tranfer data 
+- Use the TensorFlow to import AI network
+
+
+<b>TahaTech 2017-2018</b>
+- Online taxi sdk platfrm and deploy for another companies
+- native android & iOS application
+- Use the OpenStreetMap
+
+
+<b>Freelancer 2014-2016</b>
+- Created custom mobile applications using native technologies.
+- Tested applications prior to final review to verify issue resolution.
+- Use the latest frameworks and architectures required by projects
+- Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
 
 <br>
 
