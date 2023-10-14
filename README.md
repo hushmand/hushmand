@@ -81,14 +81,6 @@ github: [github.com/hushmand](https://github.com/hushmand)
 
 App Store : https://apps.apple.com/us/app/cfbtel/id1597869627
 
-<br>
-
-<b>Felorida Social Media</b>
-- Creating a full-featured social network with Flutter for Android, iOS, and web involves setting up user authentication, a database for user data and posts, and features like user profiles, a news feed, and a follow/friend system. Firebase can be a helpful tool for authentication and data storage.
-
-App Store : https://apps.apple.com/in/app/felorida/id6450869735
-<br>
-Google Play : https://play.google.com/store/apps/details?id=com.felorida&hl=en&gl=US
 
 <br>
 
