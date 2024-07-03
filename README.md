@@ -5,9 +5,9 @@
 <i>Birth 1996</i>
 
 As a Senior Mobile developer, I have proven and solid
-experience in mobile app development. Over 10 years of
+experience in mobile app development. Over 12 years of
 deep mobile app development experience.
-In addition to the experience of implementing projects such as Decentralized Messenger App based blockchain and webrtc, Online-taxi App, hiring jobs App, etc.
+In addition to the experience of implementing projects such as Decentralized Messenger App based blockchain and webrtc, Online-taxi App, hiring jobs App, Voip app etc.
 Whether you just need capable manpower, need to hire
 someone for a one-off or long term task, or want a brand
 new app, I would be glad to step in and help!
@@ -33,6 +33,8 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Open street map
 - TensorFlow & OpenCV
 - ARKit
+- GRPC
+- GraphQL
 - Communication with BLE device
 - Blockchain-based apps
 - Clean,TDD
@@ -42,6 +44,11 @@ github: [github.com/hushmand](https://github.com/hushmand)
 <br>
 
 ## EXPERIENCE
+
+<b> Felorida Co. 2023-2024</b>
+- Social network app for businesses
+- Developed for Android & iOS
+
 
 <b>CFBTEL Co. 2021-2023</b>
 - Implement voice calls using Linphone SDK in native languages(swift, kotlin) and their relationship to Flutter.
@@ -59,7 +66,7 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Use the TensorFlow to import AI network
 
 
-<b>TahaTech 2017-2018</b>
+<b>Taxi Online 2017-2018</b>
 - Online taxi sdk platfrm and deploy for another companies
 - native android & iOS application
 - Use the OpenStreetMap
@@ -75,6 +82,15 @@ github: [github.com/hushmand](https://github.com/hushmand)
 
 
 ## Portfolio
+
+<b>Felorida Social Media</b>
+- A social network application suitable for different businesses based on different categories and viewing businesses on the map radar.
+
+Google play : https://play.google.com/store/apps/details?id=com.felorida
+App Store : https://apps.apple.com/tr/app/felorida/id6450869735?platform=iphone
+
+
+<br>
 
 <b>CFBTEL SIP-based</b>
 - An application based on sip and webrtc platform for making voice and video calls. All plugins are implemented in native languages of different platforms and used in Flutter. Using callkit, silent push services to receive calls in ios version, with Android, ios, macos outputs.
