@@ -33,10 +33,9 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Open street map
 - TensorFlow & OpenCV
 - ARKit
-- GRPC
-- GraphQL
+- GRPC,GraphQL
 - Communication with BLE device
-- Blockchain-based apps
+- Blockchain & Wallet-core apps
 - Clean,TDD
 - Hybrid App
 - IPFS
@@ -45,12 +44,8 @@ github: [github.com/hushmand](https://github.com/hushmand)
 
 ## EXPERIENCE
 
-<b> Felorida Co. 2023-2024</b>
-- Social network app for businesses
-- Developed for Android & iOS
 
-
-<b>CFBTEL Co. 2021-2023</b>
+<b>CFBTEL Co. 2021-2025</b>
 - Implement voice calls using Linphone SDK in native languages(swift, kotlin) and their relationship to Flutter.
 - Use silent push notification, callKit to make calls on the iOS plastform.
 - Implement a web socket for chatting and specifying users's call status.
@@ -58,6 +53,10 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Flutter output on Android ,iOS, OSX, Windows.
 - Facilitated Scrum framework – sprint planning, backlog grooming, daily scrums, sprint reviews and sprint retrospectives.
 - Contributed to team success by completing jobs quickly and accurately.
+
+<b> Felorida Co.</b>
+- Social network app for businesses
+- Developed for Android & iOS
 
 
 <b>HitechInnovationCenter 2019-2020</b>
