@@ -32,7 +32,7 @@ github: [github.com/hushmand](https://github.com/hushmand)
 - Blockchain,Wallet-core,Web3 
 - Clean,TDD
 - Hybrid App
-- IPFS
+- Agentic AI Systems
 
 <br>
 
