@@ -56,8 +56,6 @@ App Store : https://apps.apple.com/us/app/cfbtel/id1597869627
 <b>Felorida Social Media</b>
 - A social network application suitable for different businesses based on different categories and viewing businesses on the map radar.
 
-Google play : https://play.google.com/store/apps/details?id=com.felorida
-<br>
 App Store : https://apps.apple.com/tr/app/felorida/id6450869735?platform=iphone
 
 <br>
@@ -86,6 +84,14 @@ User information is stored as hashes in the objectbox database also a special bl
 - Flutter output on Android ,iOS, OSX, Windows.
 - Facilitated Scrum framework – sprint planning, backlog grooming, daily scrums, sprint reviews and sprint retrospectives.
 - Contributed to team success by completing jobs quickly and accurately.
+
+- Agentic AI Reporting & Data Automation
+Architected an agent-based AI reporting engine enabling natural language to SQL workflow automation.
+Developed an intelligent middleware layer that interprets user prompts and dynamically generates validated database queries.
+Implemented secure query execution with role-based access control and input sanitization.
+Designed data aggregation pipelines to transform raw database output into structured analytical summaries.
+Reduced manual reporting time by automating complex multi-table data retrieval tasks.
+Contributed to early-stage development of Agentic AI systems within enterprise workflow automation.
 
 <b> Felorida Co.</b>
 - Social network app for businesses
